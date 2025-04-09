@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960633407637",
+    "project_id": "grocery-planner-fe17d",
+    "storage_bucket": "grocery-planner-fe17d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960633407637:android:64dcf667cfdb3fac08f39c",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960633407637-jfl3kht32ga24fbgjrcljlimb8cvtp62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "ef74de0ba51bd129ea6f4f2cb339ca13b7eb4861"
+          }
+        },
+        {
+          "client_id": "960633407637-m7f5ejm9llebl0roqt8mmc80cj2h331e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7AlK3sAboaFC3vNj4KiB7vKmUW6wJNvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960633407637-m7f5ejm9llebl0roqt8mmc80cj2h331e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
